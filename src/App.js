@@ -32,7 +32,7 @@ function App() {
       setNum1(null);
       setNum2(null);
       setNum3(null);
-
+      setAdd(null);
   }
   return (
     <div className="app">
